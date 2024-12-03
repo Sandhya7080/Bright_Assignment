@@ -38,3 +38,10 @@ This project is a simple, responsive web application designed to help users mana
 - **JavaScript:** For interactive elements (e.g., toggling checkboxes, buttons).
 - **Bootstrap:** Used for building a responsive layout and utilizing pre-styled components.
 - **Bootstrap Icons:** For adding visual icons to enhance UI elements.
+
+
+
+![1st task](https://github.com/user-attachments/assets/d7dc9017-e7e1-48fc-b74e-e8075c9c6b32)
+![revies](https://github.com/user-attachments/assets/e935ea96-e573-4c41-8224-64a3d662e011)
+![query](https://github.com/user-attachments/assets/13411f91-5a7b-4a78-8ed4-ecbe710d2903)
+![footer](https://github.com/user-attachments/assets/aa9b8758-b909-429f-944c-3213fe291a72)
