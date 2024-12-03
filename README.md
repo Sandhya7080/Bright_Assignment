@@ -47,5 +47,5 @@ This project is a simple, responsive web application designed to help users mana
 ![footer](https://github.com/user-attachments/assets/aa9b8758-b909-429f-944c-3213fe291a72)
 
 ## Anroid:
-![image](https://github.com/user-attachments/assets/306306e3-b6d0-4e2b-97b6-1a8d4ab44b79)
-
+![anroid](https://github.com/user-attachments/assets/e6b64600-f509-4c11-84c1-8069a405a43a)
+![anroid2](https://github.com/user-attachments/assets/6b7a5e15-bdf4-4c62-b515-47a8df7d705b)
